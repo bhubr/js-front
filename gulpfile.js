@@ -7,5 +7,5 @@ gulp.task('default', function() {
         filename: 'app.js',
       },
     }))
-    .pipe(gulp.dest('public/js/'));
+    .pipe(gulp.dest('back/public/js/'));
 });
