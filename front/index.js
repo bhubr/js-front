@@ -1,6 +1,6 @@
-import navbarHtml from './pages/navbar.js'
-import homeHtml from './pages/home.js'
-import render from './render.js'
+import navbarHtml from './pages/navbar'
+import homeHtml from './pages/home'
+import render from './render'
 import page from 'page'
 
 render(homeHtml())
